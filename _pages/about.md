@@ -8,4 +8,6 @@ permalink: /about/
 
 สำหรับโครงการหลักของเรา คือ ซอฟต์แวร์ PyThaiNLP เป็นไลบารีภาษาไพทอนสำหรับประมวลผลภาษาธรรมชาติ โดยเน้นภาษาไทย ปล่อยรุ่นแรก 0.0.4 อย่างเป็นทางการวันที่ 10 กรกฎาคม พ.ศ.2559 ([อ่านประวัติได้ที่นี่](https://github.com/PyThaiNLP/pythainlp/wiki/History))
 
-[WIP]
+## บทความวิชาการ
+
+ท่านสามารถอ่านและอ้างอิงพวกเราได้จาก [PyThaiNLP: Thai Natural Language Processing in Python](https://aclanthology.org/2023.nlposs-1.4) (Phatthiyaphaibun et al., NLPOSS-WS 2023)
