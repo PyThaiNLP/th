@@ -1,6 +1,7 @@
 ---
 layout: post
 title: รู้จักกับ Wisesight Sentiment Corpus
+subtitle: ชุดข้อมูล Wisesight Sentiment Corpus
 gh-repo: PyThaiNLP/wisesight-sentiment
 gh-badge: [star, fork]
 categories: [corpus]
